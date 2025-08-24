@@ -5,6 +5,8 @@
 
 trigger:
 - master
+- dev1
+- dev2
 
 pool:
   vmImage: 'windows-latest'
